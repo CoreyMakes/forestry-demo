@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/05/15/2208abca-43d6-4efc-bd9a-b825d39e2049.gif"
 layout: landing-page
 heading: Belkirk College
 partners:
@@ -17,16 +17,18 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: | 
+textline: |
   Belkirk College of Engineering
-  
+
   Ora et Labora
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
