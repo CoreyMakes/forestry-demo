@@ -17,10 +17,10 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: ITek Gang
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  Live-Help Desk
 
-  Ora et Labora
+  Live Human Support..
 hero_button:
   text: Learn more
   href: "/about"
